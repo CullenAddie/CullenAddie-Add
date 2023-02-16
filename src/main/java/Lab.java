@@ -1,4 +1,6 @@
-
+public static void main(String[] args){
+    
+}
 public class Lab {
     /**
      * Let's say we're making a calculator app!
@@ -11,6 +13,6 @@ public class Lab {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        return 0;
+        return a + b;
     }
 }
